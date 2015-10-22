@@ -1,0 +1,25 @@
+{
+  "name": "garden",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Plus3531/garden",
+  "authors": [
+    "Paulus Janssen"
+  ],
+  "description": "test bower versioning",
+  "main": "readme.md",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
